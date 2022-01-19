@@ -7,4 +7,4 @@ Tech Stack
 - Flask
 - Pandas
 
-- `sample_req.sh` contains a curl request 
+`sample_req.sh` contains a curl request 
